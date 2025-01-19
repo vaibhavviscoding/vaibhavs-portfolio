@@ -8,7 +8,7 @@
 - <b>Some of my graphic designs using FIGMA</b>
   - [Flyer of Aluminium Sheet company](https://github.com/vaibhavviscoding/graphic-aluminium-sheet-flyer)
   - [Shoe Poster Design](https://github.com/vaibhavviscoding/graphic-shoe-poster)
-  - [Whatsapp made using figma]
+  - [Whatsapp made using figma](https://github.com/vaibhavviscoding/ui-ux-of-whatsapp)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
