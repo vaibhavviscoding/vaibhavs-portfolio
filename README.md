@@ -1,8 +1,9 @@
 <h1>Hi, I'm Vaibhav! <br/>
 <h2>👨‍💻Projects I've worked on:</h2>
 
-- <b>expense tracker using HTML and CSS</b>
+- <b>Projects using HTML and CSS</b>
   - [Expense Tracker](https://github.com/vaibhavviscoding/expense-tracker)
+  - [Calorie Tracker](https://github.com/vaibhavviscoding/expense-tracker)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
