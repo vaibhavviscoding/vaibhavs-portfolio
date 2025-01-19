@@ -6,7 +6,7 @@
   - [Calorie Tracker](https://github.com/vaibhavviscoding/calorie-tracker)
  
 - <b>Some of my graphic designs using FIGMA</b>
-  - [Flyer of Aluminium Sheet company]
+  - [Flyer of Aluminium Sheet company](https://github.com/vaibhavviscoding/graphic-aluminium-sheet-flyer)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
