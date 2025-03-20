@@ -5,7 +5,7 @@
   - [Expense Tracker](https://github.com/vaibhavviscoding/expense-tracker)
   - [Calorie Tracker](https://github.com/vaibhavviscoding/calorie-tracker)
  
-- <b>Some of my graphic designs using FIGMA</b>
+- <b>Some of my projects using FIGMA</b>
   - [Flyer of Aluminium Sheet company](https://github.com/vaibhavviscoding/graphic-aluminium-sheet-flyer)
   - [Shoe Poster Design](https://github.com/vaibhavviscoding/graphic-shoe-poster)
   - [Whatsapp made using figma](https://github.com/vaibhavviscoding/ui-ux-of-whatsapp)
